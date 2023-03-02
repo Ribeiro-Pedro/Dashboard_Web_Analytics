@@ -1,5 +1,7 @@
 # Dashboard Web Analytics
 
+<img align="middle" alt="screenshot dashboard" width=800 src="ss_dashboard.png">
+
 <p>Esse projeto foi feito a partir dos dados do Google Analytics disponibilizados pelo Google, que foram persistidos no Google BigQuery utilizando SQL e posteriormente organizados visualmente utilizando Power BI.</p>
 
 <p>O objetivo desse Dashboard é ajudar as empresas a avaliar o desempenho de seus websites e identificar oportunidades de melhoria. Para isso, o Dashboard apresenta várias métricas importantes, como Bounce Rate, Exit Rate, Conversion Rate e Conversion Funnel.</p>
