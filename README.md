@@ -10,7 +10,7 @@
 
 <p>Avaliar o desempenho de seus websites e identificar oportunidades de melhoria. Para isso, o Dashboard apresenta várias métricas importantes, como Bounce Rate, Exit Rate, Conversion Rate e Conversion Funnel.</p>
 
-<h2>Indicadores Útilizados</h2>
+<h2>Indicadores Utilizados</h2>
 
 <p>O <b>Bounce Rate</b> é a porcentagem de visitas que saem do seu site após visualizar apenas uma página. Uma alta taxa de rejeição pode indicar que as pessoas não estão encontrando o que procuram em seu site ou que sua página inicial não é atraente o suficiente.</p>
 
