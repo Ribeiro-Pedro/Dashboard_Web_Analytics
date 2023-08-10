@@ -32,9 +32,11 @@
 ```
 Bounce Rate = 
 VAR TotalBounces =
-SUM(Sessions[bounce]
+SUM(Sessions[bounce])
+
 VAR TotalSessions =
 DISTINCTCOUNT(Sessions[session_id])
+
 VAR Ratio =
 DIVIDE(
     TotalBounces,
@@ -53,6 +55,7 @@ CALCULATE(
     COUNT(Pageviews[pageview_id]), 
     'Pageviews'[action_desc] = "order_complete"
 )
+
 VAR ProductListSessions =
 CALCULATE(
     COUNT(Pageviews[pageview_id]),
@@ -73,13 +76,16 @@ RETURN Ratio
 Exit Rate = 
 VAR TotalBounces = 
 SUM(Pageviews[bounce])
+
 VAR TotalPageviews =
 DISTINCTCOUNT(Pageviews[pageview_id])
+
 VAR Ratio =
 DIVIDE(
     TotalBounces,
     TotalPageviews,
     "-"
 )
+
 RETURN Ratio
 ```
