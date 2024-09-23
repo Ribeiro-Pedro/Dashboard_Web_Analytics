@@ -5,7 +5,7 @@
 <p>Esse projeto foi feito a partir dos dados do Google Analytics disponibilizados pelo Google, que foram persistidos no Google BigQuery utilizando SQL e posteriormente organizados visualmente utilizando Power BI.</p>
 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOGY3NTI1NjYtNGY3ZS00OWYwLWEwNDEtYTQ3OGQ0NDNiODVjIiwidCI6IjFkNWVmZGJiLTQxNjUtNDUzMi05NDE5LWQ5N2FmYzgwZTBkOSJ9">Link do Dashboard</a>
+<a href="https://app.powerbi.com/links/EI0qo3sQ9D?ctid=a7cdc447-3b29-4b41-b73e-8a2cb54b06c6&pbi_source=linkShare">Link do Dashboard</a>
 
 <h2>Problema de negócio</h2>
 
